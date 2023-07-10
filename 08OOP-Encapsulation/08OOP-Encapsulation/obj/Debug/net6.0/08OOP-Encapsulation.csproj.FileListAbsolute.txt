@@ -1,0 +1,15 @@
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\08OOP-Encapsulation.csproj.AssemblyReference.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\08OOP-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\08OOP-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\08OOP-Encapsulation.AssemblyInfo.cs
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\08OOP-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\bin\Debug\net6.0\08OOP-Encapsulation.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\bin\Debug\net6.0\08OOP-Encapsulation.deps.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\bin\Debug\net6.0\08OOP-Encapsulation.runtimeconfig.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\bin\Debug\net6.0\08OOP-Encapsulation.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\bin\Debug\net6.0\08OOP-Encapsulation.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\08OOP-Encapsulation.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\refint\08OOP-Encapsulation.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\08OOP-Encapsulation.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\08OOP-Encapsulation.genruntimeconfig.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\08OOP-Encapsulation\08OOP-Encapsulation\obj\Debug\net6.0\ref\08OOP-Encapsulation.dll

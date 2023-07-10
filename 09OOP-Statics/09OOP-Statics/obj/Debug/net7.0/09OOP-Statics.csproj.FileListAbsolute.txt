@@ -1,0 +1,15 @@
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/bin/Debug/net7.0/09OOP-Statics
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/bin/Debug/net7.0/09OOP-Statics.deps.json
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/bin/Debug/net7.0/09OOP-Statics.runtimeconfig.json
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/bin/Debug/net7.0/09OOP-Statics.dll
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/bin/Debug/net7.0/09OOP-Statics.pdb
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/09OOP-Statics.csproj.AssemblyReference.cache
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/09OOP-Statics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/09OOP-Statics.AssemblyInfoInputs.cache
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/09OOP-Statics.AssemblyInfo.cs
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/09OOP-Statics.csproj.CoreCompileInputs.cache
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/09OOP-Statics.dll
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/refint/09OOP-Statics.dll
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/09OOP-Statics.pdb
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/09OOP-Statics.genruntimeconfig.cache
+/Users/ferdibayram/C#/CoreBootcamp/09OOP-Statics/09OOP-Statics/obj/Debug/net7.0/ref/09OOP-Statics.dll

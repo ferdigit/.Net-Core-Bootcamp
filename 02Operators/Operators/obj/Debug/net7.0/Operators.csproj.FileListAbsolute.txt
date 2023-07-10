@@ -1,0 +1,30 @@
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/bin/Debug/net7.0/Operators
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/bin/Debug/net7.0/Operators.dll
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/Operators.dll
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/ferdibayram/C#/Cengiz Hoca /Operators/Operators/obj/Debug/net7.0/ref/Operators.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\Operators\Operators\obj\Debug\net7.0\ref\Operators.dll

@@ -1,0 +1,15 @@
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\bin\Debug\net6.0\06Methods.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\bin\Debug\net6.0\06Methods.deps.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\bin\Debug\net6.0\06Methods.runtimeconfig.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\bin\Debug\net6.0\06Methods.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\bin\Debug\net6.0\06Methods.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\06Methods.csproj.AssemblyReference.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\06Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\06Methods.AssemblyInfoInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\06Methods.AssemblyInfo.cs
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\06Methods.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\06Methods.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\refint\06Methods.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\06Methods.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\06Methods.genruntimeconfig.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\06Methods\06Methods\obj\Debug\net6.0\ref\06Methods.dll

@@ -1,0 +1,15 @@
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\bin\Debug\net6.0\07OOP-Classes.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\bin\Debug\net6.0\07OOP-Classes.deps.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\bin\Debug\net6.0\07OOP-Classes.runtimeconfig.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\bin\Debug\net6.0\07OOP-Classes.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\bin\Debug\net6.0\07OOP-Classes.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\07OOP-Classes.csproj.AssemblyReference.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\07OOP-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\07OOP-Classes.AssemblyInfoInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\07OOP-Classes.AssemblyInfo.cs
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\07OOP-Classes.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\07OOP-Classes.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\refint\07OOP-Classes.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\07OOP-Classes.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\07OOP-Classes.genruntimeconfig.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\.Net-Core-Bootcamp\07OOP-Classes\07OOP-Classes\obj\Debug\net6.0\ref\07OOP-Classes.dll

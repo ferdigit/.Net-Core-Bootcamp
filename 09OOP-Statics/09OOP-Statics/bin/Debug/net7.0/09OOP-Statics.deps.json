@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "09OOP-Statics/1.0.0": {
+        "runtime": {
+          "09OOP-Statics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09OOP-Statics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
